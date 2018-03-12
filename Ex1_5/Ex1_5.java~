@@ -39,7 +39,7 @@ class Ex1_5 {
 		}
 		Print output = new Print();
 		output.print(out);
-		System.out.format("\n%d\n", Iter);	//число итераций
+		System.out.format("%d\n", Iter);	//число итераций
 
 	}	
 
