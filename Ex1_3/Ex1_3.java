@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Ex1_3 {
 
-	public static int sum(int N) {	//подсчет суммы цифр в числе рекуррентым методом
+	private static int sum(int N) {	//подсчет суммы цифр в числе рекуррентым методом
 
 		if (N / 10 == 0)
 			return N;
